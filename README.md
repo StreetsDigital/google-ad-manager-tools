@@ -21,8 +21,8 @@ A Python library for programmatically managing campaigns in Google Ad Manager (G
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/StreetsDigital/google-ad-manager-tools.git
+cd google-ad-manager-tools
 ```
 
 2. Create and activate a virtual environment:
